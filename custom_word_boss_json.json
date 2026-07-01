@@ -1,0 +1,45 @@
+[
+  {
+    "id": "boss_形近词_lvl1_01",
+    "level_index": 1,
+    "category": "形近词伪装者迷宫",
+    "boss_name": "元音变幻领主",
+    "words": [
+      {
+        "en": "adapt",
+        "cn_keywords": ["适应", "改编"],
+        "phonetic": "[əˈdæpt]"
+      },
+      {
+        "en": "adopt",
+        "cn_keywords": ["采纳", "收养", "选择"],
+        "phonetic": "[əˈdɒpt]"
+      },
+      {
+        "en": "adept",
+        "cn_keywords": ["熟练", "内行", "专家"],
+        "phonetic": "[əˈdept]"
+      }
+    ],
+    "mnemonics": "a=all全盘适应；o=option选择采纳；e=expert专家熟练。"
+  },
+  {
+    "id": "boss_形近词_lvl1_02",
+    "level_index": 1,
+    "category": "形近词伪装者迷宫",
+    "boss_name": "双写混淆巨兽",
+    "words": [
+      {
+        "en": "desert",
+        "cn_keywords": ["沙漠", "放弃", "遗弃"],
+        "phonetic": "[ˈdezət]"
+      },
+      {
+        "en": "dessert",
+        "cn_keywords": ["甜点", "甜食"],
+        "phonetic": "[dɪˈzɜːt]"
+      }
+    ],
+    "mnemonics": "两个s(ss)代表sweet，甜点更甜。"
+  }
+]
